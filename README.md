@@ -1,4 +1,4 @@
-This project is used to present my skill using Unity DOTs.
+This project is used to present my skill using Unity DOTS.
 
 Asteroid is a game that you have to destroy as many asteroid as possible.
 
